@@ -1,1 +1,1 @@
-# java-mysql-inventory-transaction-manager
+Java & MySQL Inventory Engine: Built a robust backend managing relational schemas and order workflows. Enforced ACID compliance via explicit JDBC transaction rollbacks to prevent stock race conditions. Integrated parameterized SQL queries to block injection risks and built automated multi-table JOIN aggregation reports for sales velocity.
